@@ -1,5 +1,5 @@
 <h1 align="center">
-    move.it | NLW#4
+    Github Explorer
 </h1>
 <p align="center"> Application developed to perform repository searches using the Github API 💻🚀 </p>
 
@@ -13,10 +13,10 @@
 </p>
 
 <h1 align="center">
-  <img width="600" style="border-radius: 10px" height="auto" alt="move.it" title="move.it" src="src/assets/logo.svg" />
+  <img width="600" style="border-radius: 10px" height="auto" alt="github-explorer" title="github-explorer" src="src/assets/logo.svg" />
 <div style="display: flex; flex-direction: row;">
-  <img width="400" style="border-radius: 10px" height="auto" alt="move.it" title="move.it" src="src/assets/page.png" />
-  <img width="400" style="border-radius: 10px" height="auto" alt="move.it" title="move.it" src="src/assets/repository.png" />
+  <img width="400" style="border-radius: 10px" height="auto" alt="github-explorer" title="github-explorer" src="src/assets/page.png" />
+  <img width="400" style="border-radius: 10px" height="auto" alt="github-explorer" title="github-explorer" src="src/assets/repository.png" />
   <div>
 </h1>
 
@@ -45,10 +45,10 @@ Required! Install git, node and yarn (or npm).
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/pedroribeiroo/moveit.git
+$ git clone https://github.com/pedroribeiroo/github-explorer.git
 
 # Go to server folder
-$ cd moveit
+$ cd github-explorer
 
 # Install Dependencies
 $ yarn
